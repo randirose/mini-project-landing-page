@@ -7,9 +7,9 @@
   /* Element Selectors */
   body {
     position: relative;
-    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-family: "Lucida Handwriting", cursive;
     font-size: 20px;
-    background-color: #1b3a85;
+    background-color: #f7f8fa;
     color: #9eceed;
   }
   
@@ -99,15 +99,22 @@
   button {
     height: 40px;
     width: 120px;
-    background-color: #5e2bd6;
-    color: #9eceed;
+    margin-top: 20px;
+    background-color:#9eceed;
+    color: #5e2bd6;
   }
    
   /* Class Selectors */
   .text-center {
     text-align: center;
+    color: #5e2bd6;
   }
   
   .text-right {
     text-align: right;
+  }
+
+  /* id Selectors */
+  #different-color {
+    color:#9eceed;
   }
