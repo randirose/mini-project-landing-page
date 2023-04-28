@@ -38,19 +38,19 @@
     height: 60px;
     width: 100%;
     line-height: 60px;
-    background-color: #266150;
+    background-color: #5e2bd6;
   }
   
   header {
     position: fixed;
-    border-bottom: 10px solid #DDAF94;
+    border-bottom: 10px solid #5e2bd6;
   }
   
   footer {
     position: absolute;
     margin-top: 0;
     bottom: 0;
-    border-bottom: 10px solid #4F4846;
+    border-bottom: 10px solid #5e2bd6;
     color: #FDF8F5;    
   }
   
